@@ -1,0 +1,134 @@
+.formulaire{
+    background-color: #FFFF;
+    border-radius: 5px;
+    margin-right: 300px;
+    margin-left: 400px;
+    height: 600px;
+    width: 600px;
+    font-weight: bold;
+    color: rgb(33, 33, 106);
+}
+.body{
+    background-color: rgb(215, 220, 240);
+    
+}
+.logodes3{
+    width: 650px;
+    height: 150px;
+}
+.entete{
+    background-color: #FFFF;
+    border-width: 15px;
+    border-radius: 15px;
+    border-color: rgb(255, 255, 255);
+    height: 30px;
+}
+.titre1{
+    font-size: 40px;
+}
+.postuler{
+    margin-left: 1100px;
+    background-color: rgb(8, 8, 236);
+    border-radius: 7px;
+    width:240px;
+    height: 40px;
+    box-shadow: 140px;
+    font-style: oblique;
+    font-size: 20px;
+    color: white;
+}
+.grandbox{
+    margin-left: 40px;
+    margin-right: 20px;
+    justify-content: space-around;    
+}
+.nom{
+    margin-top: 40px;
+    font-size: 20px;
+}
+.inputnom{
+    border-radius: 7px;
+    background-color: ffff;
+    width: 348px;
+    height: 30px;
+    font-style: italic;
+}
+.prenom{
+    margin-top: 20px;
+    font-size: 20px;
+}
+.inputpre{
+    border-radius: 7px;
+    background-color: ffff;
+    width: 322px;
+    height: 30px;
+    font-style: italic;
+}
+.date{
+margin-top: 20px;
+font-size: 20px;
+}
+.inputdate{
+    border-radius: 7px;
+    background-color: ffff;
+    width: 241px;
+    height: 30px;
+    font-style: italic;
+}
+.contact{
+    margin-top: 20px;
+    font-size: 20px;
+}
+.inputtel{
+    border-radius: 7px;
+    background-color: ffff;
+    width: 210px;
+    height: 30px;
+    font-style: italic;
+}
+.mail{
+    margin-top: 20px;
+    font-size: 20px;
+}
+.inputmail{
+    border-radius: 7px;
+    background-color: ffff;
+    width: 270px;
+    height: 30px;
+    font-style: italic;
+}
+.motivation{
+    margin-top: 20px;
+    font-size: 20px;
+}
+.inputmot{
+    border-radius: 7px;
+    background-color: ffff;
+    width: 250px;
+    height: 100px;
+    font-style: italic;
+
+}
+.soumettre{
+    background-color: rgb(5, 5, 143);
+    margin-left: 300px;
+    margin-top: 20px;
+    border-radius: 7px;
+    width: 220px;
+    height: 40px;
+    box-shadow: 140px;
+    font-style: oblique;
+    font-size: 20px;
+    color: white;
+}
+.annonce{
+    margin-left: 100px;
+    font-size: 20px;
+}
+.description{
+    margin-left: 30px;
+    font-size: 20px;
+}
+.entete{
+    height: 175px;
+}
